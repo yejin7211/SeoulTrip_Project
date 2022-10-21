@@ -1,0 +1,9 @@
+﻿  main.cpp
+  manage_project.cpp
+C:\Users\SAMSUNG\source\repos\SeoulTrip\SeoulTrip\manage_project.cpp(37,7): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+  modify_placeInfo.cpp
+  remove_placeInfo.cpp
+  show_error_message.cpp
+  show_placeList.cpp
+  코드를 생성하고 있습니다...
+  SeoulTrip.vcxproj -> C:\Users\SAMSUNG\source\repos\SeoulTrip\x64\Debug\SeoulTrip.exe
